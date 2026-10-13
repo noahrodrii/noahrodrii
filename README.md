@@ -2,8 +2,6 @@
 
 <p align="center">
 💻 Estudiante de CFGM de SMX en Escola Pia Mataró
-
-👌 Soy un estudiante interesado en redes, sistemas y ciberseguridad. Me gusta aprender creando proyectos y mejorando mis conocimientos.
 </p>
 
 ---
