@@ -4,14 +4,6 @@
 
 </div>
 
-<div align="center">
-
-### 👨‍💻 IT Student · Systems · Networking
-
-`SMX` • `LINUX` • `BASH` • `NETWORKING`
-
-</div>
-
 ---
 
 ## 👨‍💻 Sobre mí
@@ -62,13 +54,10 @@
 
 ## 🌱 Actualmente aprendiendo
 
-<br>
+<div align="center">
 
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│       Administración de redes y sistemas     │
-│                                              │
-│       Linux · Bash · Networking · Git        │
-│                                              │
-└──────────────────────────────────────────────┘
+## 📫 Contacto
+
+📧 **Email:** [noahrodrimarin@gmail.com](mailto:noahrodrimarin@gmail.com)
+
+</div>
