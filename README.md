@@ -1,4 +1,4 @@
-# 👋 Hola, soy Noah Rodriguez
+<h1 align="center">👋 Hola, soy Noah Rodriguez</h1>
 
 💻 Estudiante de CFGM de SMX en Escola Pia Mataró
 
