@@ -2,13 +2,13 @@
 
 💻 Estudiante de CFGM de SMX en Escola Pia Mataró
 
-Soy estudiante de informática interesado en redes, sistemas y ciberseguridad. Me gusta aprender creando proyectos y mejorando mis conocimientos.
+👌 Soy un estudiante interesado en redes, sistemas y ciberseguridad. Me gusta aprender creando proyectos y mejorando mis conocimientos.
 
 ---
 
 ## 🚀 Sobre mí
 
-- 🎓 Actualmente estudiando: **Segundo año de CFGM de SMR en Escola Pia Mataró**
+- 🎓 Actualmente estudiando: **Segundo año de CFGM de SMR**
 - 🌱 Actualmente aprendiendo: **Administración de redes y sistemas**
 - 🎯 Objetivo: **Estudiar grado superior de ASIR**
 - 📍 Vivo en: **Mataró, Barcelona**
