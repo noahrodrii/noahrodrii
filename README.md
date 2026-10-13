@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:064e3b,100:00ff88&height=220&section=header&text=NOAH%20RODRIGUEZ&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20STUDENT%20%7C%20LINUX%20%7C%20BASH%20%7C%20NETWORKING&descAlignY=62&descSize=17">
-
-<h3>💻 Estudiante de CFGM de SMX · Escola Pia Mataró</h3>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20Views&color=00ff88&style=flat" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:064e3b,100:00ff88&height=220&section=header&text=NOAH%20RODRIGUEZ&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=50">
 
 </div>
 
@@ -14,7 +8,7 @@
 
 ## 👨‍💻 Sobre mí
 
-- 🎓 **Segundo año de CFGM de SMR**
+- 🎓 **Segundo año de CFGM de SMX**
 - 🌱 Actualmente aprendiendo **administración de redes y sistemas**
 - 🎯 Mi objetivo es estudiar un **Grado Superior de ASIR**
 - 📍 **Mataró, Barcelona**
