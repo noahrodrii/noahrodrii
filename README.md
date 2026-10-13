@@ -9,8 +9,8 @@ Soy estudiante de informática interesado en redes, sistemas y ciberseguridad. M
 
 ## 🚀 Sobre mí
 
-- 🎓 Actualmente estudiando: **2DO AÑO DE CFGM DE SMR**
-- 🌱 Actualmente aprendiendo: **ADMINISTRACIÓN DE REDES Y SISTEMAS**
+- 🎓 Actualmente estudiando: **Segundo año de CFGM de SMR en Escola Pia Mataró**
+- 🌱 Actualmente aprendiendo: **Administración de redes y sistemas**
 - 🎯 Objetivo: **Estudiar grado superior de ASIR**
 - 📍 Vivo en: **Mataró, Barcelona**
 
@@ -22,3 +22,9 @@ Soy estudiante de informática interesado en redes, sistemas y ciberseguridad. M
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### Sistemas y herramientas
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
