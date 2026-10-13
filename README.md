@@ -2,7 +2,6 @@
 
 💻 Estudiante de CFGM de SMX en Escola Pia Mataró
 
----
 Soy estudiante de informática interesado en redes, sistemas y ciberseguridad. Me gusta aprender creando proyectos y mejorando mis conocimientos.
 
 ---
@@ -28,3 +27,7 @@ Soy estudiante de informática interesado en redes, sistemas y ciberseguridad. M
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 📫 Contacto
+
+📧 **Email:** [noahrodrimarin@gmail.com]
