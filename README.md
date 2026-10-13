@@ -30,4 +30,4 @@ Soy estudiante de informática interesado en redes, sistemas y ciberseguridad. M
 
 ## 📫 Contacto
 
-📧 **Email:** [noahrodrimarin@gmail.com]
+📧 **Email:** <noahrodrimarin@gmail.com>
