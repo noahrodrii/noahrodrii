@@ -52,9 +52,6 @@
 
 <div align="center">
 
-## 🌱 Actualmente aprendiendo
-
-<div align="center">
 
 ## 📫 Contacto
 
