@@ -4,6 +4,14 @@
 
 </div>
 
+<div align="center">
+
+### 👨‍💻 IT Student · Systems · Networking
+
+`SMX` • `LINUX` • `BASH` • `NETWORKING`
+
+</div>
+
 ---
 
 ## 👨‍💻 Sobre mí
@@ -16,37 +24,51 @@
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+# 🛠️ Tecnologías y herramientas
 
-### 💻 Lenguajes
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00ff88)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00ff88)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff88)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff88)
+## 💻 Lenguajes
 
-### 🖥️ Sistemas y herramientas
+<br>
 
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff88)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff88)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff88)
+<img src="https://skillicons.dev/icons?i=html,css,python,bash&theme=dark" height="75"/>
+
+<br><br>
+
+### HTML · CSS · Python · Bash
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🖥️ Sistemas y herramientas
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=linux,git,github&theme=dark" height="75"/>
+
+<br><br>
+
+### Linux · Git · GitHub
+
+</div>
 
 ---
 
+<div align="center">
+
 ## 🌱 Actualmente aprendiendo
 
-```bash
-$ whoami
-Noah Rodriguez
+<br>
 
-$ education
-CFGM SMX
-
-$ learning
-Administración de redes y sistemas
-
-$ next_step
-Grado Superior ASIR
-
-$ location
-Mataró, Barcelona
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│       Administración de redes y sistemas     │
+│                                              │
+│       Linux · Bash · Networking · Git        │
+│                                              │
+└──────────────────────────────────────────────┘
