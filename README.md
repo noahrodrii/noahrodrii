@@ -67,6 +67,10 @@ M'interessa especialment el món dels **sistemes informàtics, les xarxes, Linux
 
 # 🚀 Projectes
 
+## ✌️ Primer repositori
+
+🔗 [El meu primer repo en github](https://github.com/noahrodrii/primer_repositori)
+
 ## 🖥️ Pràctiques de xarxes
 
 Projectes i pràctiques realitzades durant el cicle de **SMX**, treballant amb configuració de xarxes, adreçament IP i encaminament.
@@ -113,4 +117,4 @@ $ interests
 Linux / Networking / Cybersecurity
 
 $ next_step
-Grau Superior ASIR
+Grau Superior ASIX
